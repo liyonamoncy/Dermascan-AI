@@ -1,0 +1,8 @@
+Datasets/
+Models/
+
+__pycache__/
+*.h5
+*.keras
+*.pth
+.ipynb_checkpoints/
