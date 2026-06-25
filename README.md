@@ -179,10 +179,3 @@ Confidence Score   : 95.42%
 Severity Risk Level: Benign
 ```
 
-
-## Author
-
-Liyona Moncy
-
-Computer Science Student | AI & Machine Learning Enthusiast
-
